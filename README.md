@@ -1,4 +1,4 @@
-# Live2D_Prepro_Plus.jsx v0.1
+# Live2D_Prepro_Plus.jsx
 
 このファイルは、Adobe Photoshop CC 用 Javascriptです。  
 Live2D用の素材PSDファイルを、Cubism Editorへのインポートに適した形に加工します。  
