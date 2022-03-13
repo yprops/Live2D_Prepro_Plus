@@ -43,10 +43,16 @@ This script modifies PSD file made for Live2D to import to Cubism Editor.*
 - ファイル名に指定の接尾辞をつけて別名保存する。  
   *save as other file with name suffix.*  
   - 内部変数の書き換えで、接尾辞の変更と別名保存機能のOFFができます。  
-    *rewriting inner vars allows you to modify suffixes and turn off 'save as' function. *
+    *rewriting inner vars allows you to modify suffixes and turn off 'save as' function.  
 
 
 ---------
+
+
+## 確認環境
+- Windows 10
+- Adobe Photoshop 23.2.1
+- Live2D Cubism Editor 4.1.04
 
 
 ## 更新履歴
