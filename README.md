@@ -5,6 +5,7 @@ Live2D用の素材PSDファイルを、Cubism Editorへのインポートに適�
 *This is Javascript for Adobe Photoshop CC.  
 This script modifies PSD file made for Live2D to import to Cubism Editor.*
 
+>https://github.com/yprops/Live2D_Prepro_Plus  
 >Copyright (c) 2022 MoriwakiYuuya(yprops)  
 >This software is released under the MIT License.  
 >https://opensource.org/licenses/mit-license.php
