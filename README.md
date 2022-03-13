@@ -41,8 +41,8 @@ This script modifies PSD file made for Live2D to import to Cubism Editor.*
     *in merged layer sets, '\~'layers cannot be removed.*
 - ファイル名に指定の接尾辞をつけて別名保存する。  
   *save as other file with name suffix.*  
-  内部変数の書き換えで、接尾辞の変更と別名保存機能のOFFができます。  
-  *rewriting inner vars allows you to modify suffixes and turn off 'save as' function. *
+  - 内部変数の書き換えで、接尾辞の変更と別名保存機能のOFFができます。  
+    *rewriting inner vars allows you to modify suffixes and turn off 'save as' function. *
 
 
 ---------
